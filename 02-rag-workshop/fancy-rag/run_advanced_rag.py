@@ -43,7 +43,7 @@ EMBEDDING_CONFIG = {
 
 def setup_environment() -> None:
     os.environ['AZURE_OPENAI_ENDPOINT'] = 'https://evozon-bots-new.openai.azure.com/'
-    os.environ['AZURE_OPENAI_API_KEY'] = '1906f94ca9a24877ab2423c4cf4b746c'
+    os.environ['AZURE_OPENAI_API_KEY'] = 'placeholder'
     os.environ['OPENAI_API_VERSION'] = '2024-12-01-preview'
 
 
