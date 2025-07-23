@@ -1,0 +1,11 @@
+langchain-core==0.3.69
+langchain-openai==0.3.28
+langchain-community==0.3.27
+langchain-text-splitters==0.3.8
+langchainhub==0.1.21
+unstructured==0.18.9
+markdown==3.8.2
+elasticsearch==8.18.1
+langchain-elasticsearch==0.3.2
+streamlit==1.39.0
+langgraph==0.5.4
