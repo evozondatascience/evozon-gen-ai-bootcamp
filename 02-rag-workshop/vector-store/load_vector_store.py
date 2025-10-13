@@ -25,7 +25,7 @@ ELASTICSEARCH_CONFIG = {
 def setup_environment() -> None:
     """Configure Azure OpenAI environment variables."""
     os.environ['AZURE_OPENAI_ENDPOINT'] = 'https://evozon-bots-new.openai.azure.com/'
-    os.environ['AZURE_OPENAI_API_KEY'] = 'placeholder'
+    os.environ['AZURE_OPENAI_API_KEY'] = 'SECRET'
     os.environ['OPENAI_API_VERSION'] = '2024-12-01-preview'
 
 
