@@ -20,7 +20,7 @@ RETRIEVAL_K = 3  # Number of documents to retrieve for each query
 ELASTICSEARCH_CONFIG = {
     "es_url": "https://localhost:9200/",
     "es_user": "elastic", 
-    "es_password": "xM-_eV5Zqk3yjNqO*ld6",
+    "es_password": "1*ExqA*Zvl*Mz25uBxud",
     "es_params": {"verify_certs": False}  # For development only
 }
 
